@@ -1,0 +1,15 @@
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\bin\Release\Project41.HomeWork1.exe.config
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\bin\Release\Project41.HomeWork1.exe
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\bin\Release\Project41.HomeWork1.pdb
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.Chart.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.ChooseTypeOfTournament.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.Manager.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.Forecast.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.Properties.Resources.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.Tournaments.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.TournamentsEditor.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.csproj.GenerateResource.Cache
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.exe
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.pdb
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.csprojResolveAssemblyReference.cache
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Release\Project41.HomeWork1.Lose_all.resources

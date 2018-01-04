@@ -1,0 +1,25 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Project41.HomeWork1\Project41.HomeWork1\bin\Debug\Project41.HomeWork1.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Project41.HomeWork1\Project41.HomeWork1\bin\Debug\Project41.HomeWork1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Project41.HomeWork1\Project41.HomeWork1\bin\Debug\Project41.HomeWork1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.Manager.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.TournamentsEditor.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.pdb
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\bin\Debug\Project41.HomeWork1.exe.config
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.exe
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.pdb
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\bin\Debug\Project41.HomeWork1.exe
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\bin\Debug\Project41.HomeWork1.pdb
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.csprojResolveAssemblyReference.cache
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.Manager.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.Properties.Resources.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.TournamentsEditor.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.csproj.GenerateResource.Cache
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.Chart.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.Forecast.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.ChooseTypeOfTournament.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.Tournaments.resources
+D:\Projects\poker888\Project41.HomeWork1\Project41.HomeWork1\obj\Debug\Project41.HomeWork1.Lose_all.resources
